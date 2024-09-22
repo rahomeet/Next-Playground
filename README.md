@@ -1,2 +1,2 @@
-# Next-Playground
-This is my Nextjs Playground
+# Next-Template 
+
